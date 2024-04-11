@@ -88,10 +88,12 @@ List with all Students
   
   
 ## 4. Wireframes
-[Add picture of your hand sketched wireframes in this section] 
+Digital Wireframes & Mockups
 
-[BONUS] Digital Wireframes & Mockups
-[BONUS] Interactive Prototype
+<img width="859" alt="Снимок экрана 2024-04-11 в 3 45 32 PM" src="https://github.com/aishasalim/IOS101-Tutoring-manager/assets/87562264/f2c0824b-2302-40a4-bc9c-f2975dc4cf92">
+
+
+
 Schema
 [This section will be completed in Unit 9]
 
