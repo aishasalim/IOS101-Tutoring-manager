@@ -93,7 +93,7 @@ Digital Wireframes & Mockups
 <img width="859" alt="Снимок экрана 2024-04-11 в 3 45 32 PM" src="https://github.com/aishasalim/IOS101-Tutoring-manager/assets/87562264/f2c0824b-2302-40a4-bc9c-f2975dc4cf92">
 
 
-
+Video & Prototyping
 
 https://github.com/aishasalim/IOS101-Tutoring-manager/assets/87562264/494957a2-200d-4aa0-887d-f009782b4d76
 
