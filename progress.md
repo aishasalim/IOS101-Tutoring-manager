@@ -8,3 +8,10 @@
 - [ ] **Table view of all students available**
 - [ ] **Details displays detail for each student**
 - [ ] **Ability to send email/message or phone to a parent**
+
+
+Progress week 1:
+4/13/24
+
+https://github.com/aishasalim/IOS101-Tutoring-manager/assets/87562264/3a324d36-bb74-4ab0-bc07-e49d660b0e96
+
