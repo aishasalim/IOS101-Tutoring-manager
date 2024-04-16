@@ -1,13 +1,6 @@
 # Tutoring Manager
 
 
-4/13/24 check up
-
-
-https://github.com/aishasalim/IOS101-Tutoring-manager/assets/87562264/3fc89b54-0df6-432e-bf60-e89613821a72
-
-
-
 ## Table of Contents
 
 1. Overview
