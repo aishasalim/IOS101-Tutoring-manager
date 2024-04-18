@@ -3,11 +3,16 @@
 
 - [X] **Dashboard Overview displays with key metrics**
 - [X] **Dashboards key metrics are sensitive and dynamic**
-- [X] **Student information form where user add student information including**
-- [ ] **Success-page that notifies of a successfull form receiving**
-- [ ] **Table view of all students available**
-- [ ] **Details displays detail for each student**
+- [X] **Student information form where the user adds student information**
+- [X] **Success page that notifies of a successful form receiving**
+- [X] **Dynamic data changes, so that sending a form instantly reflects the dashboards page**
+- [X] **Table view list of all students available**
+- [X] **Deletion of students from the table view list**
+- [X] **Deletion of students from the table view list by swipe updates dashboards page**
+- [X] **Available detail page for each student**
 - [ ] **Ability to send email/message or phone to a parent**
+- [ ] **Can edit student from the detail page**
+- [ ] **Changes after editing student reflect student database and dashboards**
 
 
 Progress week 1:
