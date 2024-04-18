@@ -1,4 +1,4 @@
-
+# Tutoring manager App
 **App Features**
 
 - [X] **Dashboard Overview displays with key metrics**
