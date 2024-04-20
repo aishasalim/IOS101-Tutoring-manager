@@ -15,11 +15,22 @@
 - [X] **Changes after editing student reflect student database and dashboards**
 - [X] **Search by name in the Student list**
 
+
+## Storyboard screen
 <img src='https://github.com/aishasalim/IOS101-Tutoring-manager/assets/87562264/28aecb51-151d-476c-8997-94b7c7f8329e.png'/>
 
-
-Progress week 1:
+## Progress week 1:
 4/13/24
 
 https://github.com/aishasalim/IOS101-Tutoring-manager/assets/87562264/3a324d36-bb74-4ab0-bc07-e49d660b0e96
+
+## Final Progress check - Final Project stage
+
+### Simulator
+
+https://github.com/aishasalim/IOS101-Tutoring-manager/assets/87562264/94f80a83-02ee-4e1f-950d-dd5d4fc4fe66
+
+
+
+
 
