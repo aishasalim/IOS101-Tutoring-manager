@@ -10,9 +10,12 @@
 - [X] **Deletion of students from the table view list**
 - [X] **Deletion of students from the table view list by swipe updates dashboards page**
 - [X] **Available detail page for each student**
-- [ ] **Ability to send email/message or phone to a parent**
-- [ ] **Can edit student from the detail page**
-- [ ] **Changes after editing student reflect student database and dashboards**
+- [X] **Ability to send email/message or phone to a parent**
+- [X] **Can edit student from the detail page**
+- [X] **Changes after editing student reflect student database and dashboards**
+- [X] **Search by name in the Student list**
+
+<img src='https://github.com/aishasalim/IOS101-Tutoring-manager/assets/87562264/28aecb51-151d-476c-8997-94b7c7f8329e.png'/>
 
 
 Progress week 1:
